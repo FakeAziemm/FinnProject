@@ -2,7 +2,7 @@ let noClickCount = 0;  // Initialize a counter to track how many times "No" is c
 
 function handleYes() {
   // Action when the "Yes" button is clicked
-  alert("Yay! Thanks for being my Valentine!");
+  alert("Yay!! officially couple B)");
 }
 
 function handleNo() {
